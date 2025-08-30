@@ -4,7 +4,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript) 
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Um **CLI simples e rápido** em Node.js + TypeScript que consome a [Open-Meteo API](https://open-meteo.com/) para exibir a **temperatura atual** de qualquer cidade do mundo 🌍.  
+Aplicativo de Previsão do Tempo:
+
+Este aplicativo busca dados meteorológicos em tempo real usando a API Open-Meteo. 
+
+Os usuários podem inserir o nome de uma cidade para exibir a **temperatura atual** de qualquer cidade do mundo 🌍.  
 
 ---
 
