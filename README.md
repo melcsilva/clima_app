@@ -17,8 +17,8 @@ O app é totalmente front-end, simples e funcional, feito com HTML, CSS e JavaSc
 
 ## ✨ Funcionalidades
 
-✅ Buscar a temperatura atual de uma cidade
-✅ Exibir resultado em Celsius 🌡️
+✅ Buscar a temperatura atual de uma cidade 
+✅ Exibir resultado em Celsius 🌡️ 
 ✅ Layout responsivo e estilizado
 ✅ Card com efeito hover e destaque visual
 
@@ -43,12 +43,7 @@ git clone https://github.com/seu-usuario/weather-web.git
 ---
 ## 🚀 Como usar
 
-```bash
-npm run build
-node dist/index.js "São Paulo"
-```
-
-### 2. Abra o arquivo index.html no navegador:
+### Abra o arquivo index.html no navegador:
 
 Windows: clique duas vezes no arquivo
 
